@@ -1,0 +1,16 @@
+{
+  "name": "companyPortal",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "start": "node_modules/react-native/packager/packager.sh"
+  },
+  "dependencies": {
+    "firebase": "^2.2.7",
+    "lodash": "^3.9.3",
+    "react-native": "^0.4.4",
+    "react-native-communications": "0.0.4",
+    "react-native-side-menu": "git://github.com/kureev/react-native-side-menu.git",
+    "react-native-vector-icons": "^0.6.1"
+  }
+}
