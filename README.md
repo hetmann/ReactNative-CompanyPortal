@@ -1,4 +1,3 @@
-
 Company Portal is an **iOS App** for any company where an employee can communicate with other company colleagues.
 
 Components:
